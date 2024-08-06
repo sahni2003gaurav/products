@@ -1,20 +1,27 @@
 [
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "Post Title 1",
-    "body": "This is the body of post 1."
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "Post Title 2",
-    "body": "This is the body of post 2."
-  },
-  {
-    "userId": 1,
-    "id": 3,
-    "title": "Post Title 3",
-    "body": "This is the body of post 3."
-  }
-]
+    {
+      "title": "Burger Kings",
+      "subtitle": "Phasellus accumsan imperdiet tempor. Cras tincidunt, arcu nec eleifend porttitor, orci est vehicula",
+      "imageUrl": "https://cdn.magicpin.com/videos/30507657-7b5c-49a2-a2ab-50939f99a489_563cb7b5-b1ff-4500-9b2e-c27374b478b4/thumbnail.jpg",
+      "discount": "25% OFF"
+    },
+    {
+      "title": "Pizza Mania",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAalTBRa9XrGVDbHJVPbJFmJc-jelDmtxyw&s",
+      "discount": "15% OFF"
+    },
+    {
+      "title": "Pizza Mania",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAalTBRa9XrGVDbHJVPbJFmJc-jelDmtxyw&s",
+      "discount": "15% OFF"
+    },
+    {
+      "title": "Pizza Mania",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAalTBRa9XrGVDbHJVPbJFmJc-jelDmtxyw&s",
+      "discount": "15% OFF"
+    }
+  ]
+  
